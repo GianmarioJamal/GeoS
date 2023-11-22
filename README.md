@@ -21,5 +21,5 @@ In addition to the package installations, you need to obtain a Cesium API Key an
 Please visit the following link (https://developers.google.com/ar/geospatialcreator/unity/quickstart?hl=en) to set up Cesium software and obtain the API Key
 
 The reference scene within the project where it is possible to analyze the codes and prefabs is as follows:
-    Samples/ARCore Extensions/1.40.0/Geospatial Samples/Scenes/Geospatial
+    Samples/ARCore Extensions/1.40.0/Geospatial Samples/Scenes/Geospatial 
 
